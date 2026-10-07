@@ -1,33 +1,33 @@
 <div align="center">
 
-# ☁️ Rika ☁️
+# ☁️ rika ☁️
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTI1bG9mcm9namg5ZGt6NW8xc2V5N3pvM3gyYTl6b2U1aXFhbzZnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7vzFWnkrv9u7Yocftn/giphy.gif" width="100%" alt="Cinnamoroll GIF"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=cdf2ef&height=100&section=header" width="100%"/>
 
-*( ૮ ˶ᵔ ᵕ ᵔ˶ ~ ) front-end beginner ‧ ui/ux ‧ art ‧ writing*
+*( ૮ ˶ᵔ ᵕ ᵔ˶ ~ ) front-end newbie ‧ ui/ux ‧ art ‧ writing*
 
 ---
 
 </div>
 
-### 🩵 ✦ tentang aku
+### 🩵 ✦ about me
 
-Halo! Aku Rika (github: `@rikanb`). Masih belajar dasar-dasar web development sambil eksplorasi dunia desain, seni digital, dan sesekali menulis.
+hiiii! i'm rika. just a smol dev learning basic web stuff while doodling pretty things, designing cute interfaces, and writing down my little thoughts ~
 
-* ☁️ **front-end:** belajar html, css, javascript dasar
-* ☁️ **design & art:** figma & digital illustration
-* ☁️ **writing:** menulis artikel & catatan harian
+- ☁️ **front-end:** figuring out basic html, css, & js!
+- ☁️ **design & art:** figma magic & digital doodles 
+- ☁️ **writing:** tiny articles & daily journaling 
 
 ---
 
-### 🩵 ✦ tools
+### 🩵 ✦ my cute stack
 
-| bidang | aplikasi / bahasa |
+| category | stuff i use |
 | :--- | :--- |
 | **coding** | `html` ‧ `css` ‧ `javascript` ‧ `vs code` |
-| **desain** | `figma` ‧ `drawing apps` |
+| **design** | `figma` ‧ `drawing apps` |
 
 ---
 
@@ -44,7 +44,7 @@ Halo! Aku Rika (github: `@rikanb`). Masih belajar dasar-dasar web development sa
 
 <div align="center">
 
-### 🩵 ✦ temukan aku di sini
+### 🩵 ✦ find me here!
 
 [![Instagram](https://img.shields.io/badge/Instagram-38BDF8?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rikannb/)
 [![YouTube](https://img.shields.io/badge/YouTube-7DD3FC?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@rikannb)
